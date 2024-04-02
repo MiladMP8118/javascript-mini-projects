@@ -1,1 +1,1 @@
-## JavaScript mini projects
+<p align="center">**JavaScript mini projects**</p>
