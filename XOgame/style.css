@@ -70,16 +70,14 @@ span{
     width: 125px;
     display: flex;
     flex-direction: column;
-    background: rgba(248, 248, 255, 1);
+    background: rgba(248, 248, 255, 0.7);
     position: absolute;
     border-radius: 20px;
-    box-shadow: 0 0 75px 2px dimgray;
+    box-shadow: 0 0 65px 2px rgba(105, 105, 105, 0.7);
     animation: larger 0.5s;
     animation-fill-mode: forwards;
     box-sizing: content-box;
     padding: 20px 30px;
-    
-    
 }
 .alert-text{
     color: orangered;
@@ -87,7 +85,7 @@ span{
     font-weight: 600;
 }
 button{
-    background: dimgray;
+    background: green;
     border-radius: 6px;
     color: ghostwhite;
     border: none;
