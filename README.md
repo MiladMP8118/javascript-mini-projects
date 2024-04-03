@@ -1,1 +1,1 @@
-<p align="center">**JavaScript mini projects**</p>
+<p align="center"><strong>JavaScript mini projects</strong></p>
